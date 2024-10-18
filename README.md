@@ -43,4 +43,4 @@ Feel free to reach out via [email](mailto:your-email@example.com) <!-- Replace '
 
 ---
 
-![Thanks for visiting](https://via.placeholder.com/800x100.png?text=Thanks+for+visiting+my+profile!) <!-- Replace with your own footer image -->
+![Thanks for visiting](https://github.com/hardik-thapar/hardik-thapar/blob/main/Black%20and%20White%20Simple%20Typographic%20Phantom%20Halloween%20Logo.jpg) <!-- Replace with your own footer image -->
