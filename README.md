@@ -4,13 +4,14 @@ Welcome to my [GitHub](https://github.com/) profile! I'm a first-year BE CSE AI 
 
 ## 🚀 Skills
 
-- **HTML** ![HTML](https://progress-bar.dev/80/) <!-- Adjust the percentage to reflect your proficiency -->
-- **CSS** ![CSS](https://progress-bar.dev/75/) <!-- Adjust the percentage to reflect your proficiency -->
-- **C++** ![C++](https://progress-bar.dev/70/) <!-- Adjust the percentage to reflect your proficiency -->
-- **JavaScript** ![JavaScript](https://progress-bar.dev/65/) <!-- Adjust the percentage to reflect your proficiency -->
-- **Python** ![Python](https://progress-bar.dev/60/) <!-- Adjust the percentage to reflect your proficiency -->
-- **Analytical Thinking** ![Analytical Thinking](https://progress-bar.dev/85/) <!-- Adjust the percentage to reflect your proficiency -->
-- **Management** ![Management](https://progress-bar.dev/70/) <!-- Adjust the percentage to reflect your proficiency -->
+- **HTML** ![HTML](https://img.shields.io/badge/HTML-80%25-brightgreen)
+- **CSS** ![CSS](https://img.shields.io/badge/CSS-75%25-yellowgreen)
+- **C++** ![C++](https://img.shields.io/badge/C++-70%25-yellow)
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-65%25-orange)
+- **Python** ![Python](https://img.shields.io/badge/Python-60%25-red)
+- **Analytical Thinking** ![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-85%25-brightgreen)
+- **Management** ![Management](https://img.shields.io/badge/Management-70%25-yellow)
+
 
 ## 🌐 Connect with me
 
