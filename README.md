@@ -34,8 +34,9 @@ Welcome to my GitHub profile! I'm a first-year BE CSE AI student passionate abou
 
 ## 🏆 Achievements
 
-- **CS50x Harvard University** [Achievement 1](#) <!-- Link to any notable achievements or projects -->
--**Intro to Python - Uof Michigan** [Achievement 2](#)
+- **CS50x Harvard University**
+
+- -**Intro to Python - Uof Michigan**
 
 ## 📫 How to reach me
 
