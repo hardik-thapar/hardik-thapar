@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm a first-year BE CSE AI student passionate abou
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile) <!-- Replace 'your-linkedin-profile' with your actual LinkedIn profile URL -->
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle) <!-- Replace 'your-twitter-handle' with your actual Twitter handle -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-thapar-tech12/) <!-- Replace 'your-linkedin-profile' with your actual LinkedIn profile URL -->
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ThaparHardik) <!-- Replace 'your-twitter-handle' with your actual Twitter handle -->
 
 ## 🎯 Goals
 
@@ -36,11 +36,11 @@ Welcome to my GitHub profile! I'm a first-year BE CSE AI student passionate abou
 
 - **CS50x Harvard University**
 
-- -**Intro to Python - Uof Michigan**
+- **Intro to Python - Uof Michigan**
 
 ## 📫 How to reach me
 
-Feel free to reach out via [email](mailto:your-email@example.com) <!-- Replace 'your-email@example.com' with your actual email address if you want to include it --> or connect with me on LinkedIn and Twitter.
+Feel free to reach out via [email](mailto:hardikthapar1@gmail.com) <!-- Replace 'your-email@example.com' with your actual email address if you want to include it --> or connect with me on LinkedIn and Twitter.
 
 ---
 
