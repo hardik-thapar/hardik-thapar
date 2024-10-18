@@ -1,6 +1,6 @@
 # Hi there, I'm Hardik Thapar 👋
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile) <!-- Replace with your own banner image -->
+![Profile Banner](https://drive.google.com/file/d/1uHfwh_RWJEwjxFzviUj8h1NfiEHwQirr/view?usp=sharing) <!-- Replace with your own banner image -->
 
 Welcome to my GitHub profile! I'm a first-year BE CSE AI student passionate about technology and innovation. Here's a little more about me:
 
