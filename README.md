@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I'm a first-year BE CSE AI student passionate abou
 
 ## 📊 GitHub Stats
 
-![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical) <!-- Replace 'your-github-username' with your actual GitHub username -->
+![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardik-thapar&show_icons=true&theme=radical) <!-- Replace 'your-github-username' with your actual GitHub username -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical) <!-- This shows the most used languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik-thapar&layout=compact&theme=radical) <!-- This shows the most used languages -->
 
 ## 🌐 Connect with me
 
