@@ -4,13 +4,13 @@ Welcome to my [GitHub](https://github.com/) profile! I'm a first-year BE CSE AI 
 
 ## 🚀 Skills
 
-- **HTML** ![HTML](https://progress-bar.dev/80/)
-- **CSS** ![CSS](https://progress-bar.dev/80/)
-- **C++** ![C++](https://progress-bar.dev/80/)
-- **JavaScript** ![JavaScript](https://progress-bar.dev/65/)
-- **Python** ![Python](https://progress-bar.dev/80/)
-- **Analytical Thinking** ![Analytical Thinking](https://progress-bar.dev/90/)
-- **Management** ![Management](https://progress-bar.dev/90/)
+- **HTML** ![HTML](https://img.shields.io/badge/HTML-80%25-brightgreen)
+- **CSS** ![CSS](https://img.shields.io/badge/CSS-80%25-brightgreen)
+- **C++** ![C++](https://img.shields.io/badge/C++-80%25-brightgreen)
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-65%25-yellow)
+- **Python** ![Python](https://img.shields.io/badge/Python-80%25-brightgreen)
+- **Analytical Thinking** ![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-90%25-brightgreen)
+- **Management** ![Management](https://img.shields.io/badge/Management-90%25-brightgreen)
 
 
 ## 🌐 Connect with me
