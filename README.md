@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a first-year BE CSE AI student passionate abou
 - **CSS** ![CSS](https://img.shields.io/badge/CSS-75%25-yellowgreen)
 - **C++** ![C++](https://img.shields.io/badge/C++-70%25-yellow)
 - **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-65%25-orange)
-- **Python** ![Python](https://img.shields.io/badge/Python-60%25-red)
+- **Python** ![Python](https://img.shields.io/badge/Python-90%25-red)
 - **Analytical Thinking** ![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-85%25-brightgreen)
 - **Management** ![Management](https://img.shields.io/badge/Management-70%25-yellow)
 
