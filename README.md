@@ -6,13 +6,9 @@ Welcome to my GitHub profile! I'm a first-year BE CSE AI student passionate abou
 
 ## 🚀 Skills
 
-- **HTML** ![HTML](https://img.shields.io/badge/HTML-80%25-brightgreen)
-- **CSS** ![CSS](https://img.shields.io/badge/CSS-75%25-yellowgreen)
-- **C++** ![C++](https://img.shields.io/badge/C++-70%25-yellow)
-- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-65%25-orange)
-- **Python** ![Python](https://img.shields.io/badge/Python-90%25-red)
-- **Analytical Thinking** ![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-85%25-brightgreen)
-- **Management** ![Management](https://img.shields.io/badge/Management-70%25-yellow)
+![](https://github-readme-stats.vercel.app/api?username=hardik-thapar&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hardik-thapar&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik-thapar&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 📊 GitHub Stats
