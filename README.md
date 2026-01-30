@@ -8,12 +8,12 @@
 
 - 👯 I'm looking to collaborate on **Machine learning research projects, applied AI systems, and open-source ML tooling.**
 
-- 🤝 I'm looking for help with **Scaling ML experiments, benchmarking large models, and real-world evaluation frameworks.
+- 🤝 I'm looking for help with Scaling ML experiments, benchmarking large models, and real-world evaluation frameworks.
   
 - 🏆 **Achievements:** **₹2 Lakh+ (~$2,500 USD) in prizes & grants**, winner at **8 hackathons** across AI/ML-focused competitions.
 
 - 🎯 **Open to:** **Machine Learning / AI internships** and **applied research roles** in ML & Deep Learning.
-**
+
 
 - 💬 Ask me about **Machine learning, deep learning, model evaluation, ML pipelines, and applied AI research.**
 
