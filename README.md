@@ -2,7 +2,7 @@
 
 **Software Engineer · AI/ML · Open to SDE & ML Internships from June 2026**
 
-Second year Computer Science student at Chitkara University, India. I build end-to-end systems — not just models, but the APIs, databases, and infrastructure around them. Currently doing research in biomedical AI with professors in Taiwan and the Netherlands.
+Second year Computer Science student at Chitkara University, India. I build end-to-end systems — not just models, but the APIs, databases, and infrastructure around them. Currently doing research in biomedical AI with professors in Taiwan.
 
 ---
 
