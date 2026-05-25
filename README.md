@@ -1,33 +1,55 @@
-# Hi 👋, I'm Hardik Thapar
+# Hardik Thapar
 
-### Applied Machine Learning Engineer | AI & Deep Learning
+**Software Engineer · AI/ML · Open to SDE & ML Internships from June 2026**
 
-- 🔭 I'm currently working on **Applied machine learning and deep learning systems, focusing on model evaluation, robustness, and end-to-end ML pipelines.**
+Second year Computer Science student at Chitkara University, India. I build end-to-end systems — not just models, but the APIs, databases, and infrastructure around them. Currently doing research in biomedical AI with professors in Taiwan and the Netherlands.
 
-- 🌱 I'm currently learning **Advanced deep learning architectures, LLM inference optimization, and ML systems design.**
+---
 
-- 👯 I'm looking to collaborate on **Machine learning research projects, applied AI systems, and open-source ML tooling.**
+## What I Work With
 
-- 🤝 I'm looking for help with Scaling ML experiments, benchmarking large models, and real-world evaluation frameworks.
-  
-- 🏆 **Achievements:** **₹2 Lakh+ (~$2,500 USD) in prizes & grants**, winner at **8 hackathons** across AI/ML-focused competitions.
+**Languages**
+`Python` `C++` `SQL` `Bash`
 
-- 🎯 **Open to:** **Machine Learning / AI internships** and **applied research roles** in ML & Deep Learning.
+**Software & Backend**
+`FastAPI` `PostgreSQL` `Docker` `REST APIs` `Git` `Linux`
 
+**AI / ML**
+`PyTorch` `TensorFlow` `scikit-learn` `Hugging Face` `LLMs`
 
-- 💬 Ask me about **Machine learning, deep learning, model evaluation, ML pipelines, and applied AI research.**
+**Cloud**
+`AWS` `(SageMaker · Lambda · S3)`
 
-- 📫 How to reach me **Email: hardik@hthapar.xyz | LinkedIn: linkedin.com/in/hardik-thapar**
+---
 
-- 👨‍💻 All of my projects are available at **[https://hthapar.xyz](https://hthapar.xyz)**
+## Selected Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/hardik-thapar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hardik-thapar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hardik-thapar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik-thapar" height="30" width="40" /></a>
-<a href="https://twitter.com/ThaparHardik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ThaparHardik" height="30" width="40" /></a>
-</p>
+**[VocalWell](https://github.com/hardik-thapar)** — Voice pathology detection system built end-to-end: audio preprocessing, deep learning classifier, FastAPI backend, PostgreSQL, Docker, deployed on Render.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
+**[EEG Alzheimer's Detection](https://github.com/hardik-thapar/eeg-alzheimer-detection)** — Research pipeline for Alzheimer's detection from EEG signals. Multi-dataset training with subject-level cross-validation. Active research toward SCI publication.
 
+**[DengCast](https://github.com/hardik-thapar/dengcast-dengue-forecasting)** — Dengue outbreak forecasting pipeline. MAE 11.87 (San Juan) and 4.74 (Iquitos) on DrivenData benchmark.
+
+**[LLM Scheduling Assistant](https://github.com/hardik-thapar)** — Multi-agent scheduling system running LLaMA-3.1 and DeepSeek-7B on AMD MI300 GPU via vLLM. National Finalist at AMD AI Sprint, IIT Bombay (500+ teams).
+
+---
+
+## Research
+
+**NKUST Taiwan** — Research Intern under Assoc. Prof. Chang Kang-Ming. EEG-based Alzheimer's Disease detection using DNN approaches. Working toward SCI journal publication. (Mar – May 2026)
+
+**TU Eindhoven, Netherlands** — Research Collaborator under Asst. Prof. Devendra Singh Dhami. Causal ML and time series forecasting. (2026 – Present)
+
+---
+
+## A Few Things
+
+- 8 national hackathon wins including 1st place at Swasthathon (Ministry of Health, Govt. of India) and National Finalist at AMD AI Sprint IIT Bombay
+- Selected for AWS AI & ML Scholars, McKinsey Forward Program, Harvard Aspire Leaders Program
+- GPA 8.59 / 10.0, Dean's List all semesters
+
+---
+
+## Get In Touch
+
+[LinkedIn](https://linkedin.com/in/hardik-thapar) · [Portfolio](https://hardik-thapar.github.io) · hardikthapar1@gmail.com
