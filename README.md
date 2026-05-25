@@ -9,7 +9,7 @@ Second year Computer Science student at Chitkara University, India. I build end-
 ## What I Work With
 
 **Languages**
-`Python` `C++` `SQL` `Bash`
+`Python` `C++` `Java` `SQL` `Bash`
 
 **Software & Backend**
 `FastAPI` `PostgreSQL` `Docker` `REST APIs` `Git` `Linux`
