@@ -38,16 +38,12 @@ Second year Computer Science student at Chitkara University, India. I build end-
 
 **NKUST Taiwan** — Research Intern under Assoc. Prof. Chang Kang-Ming. EEG-based Alzheimer's Disease detection using DNN approaches. Working toward SCI journal publication. (Mar – May 2026)
 
-**TU Eindhoven, Netherlands** — Research Collaborator under Asst. Prof. Devendra Singh Dhami. Causal ML and time series forecasting. (2026 – Present)
-
 ---
 
 ## A Few Things
 
 - 8 national hackathon wins including 1st place at Swasthathon (Ministry of Health, Govt. of India) and National Finalist at AMD AI Sprint IIT Bombay
 - Selected for AWS AI & ML Scholars, McKinsey Forward Program, Harvard Aspire Leaders Program
-- GPA 8.59 / 10.0, Dean's List all semesters
-
 ---
 
 ## Get In Touch
