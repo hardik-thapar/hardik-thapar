@@ -33,8 +33,6 @@ Third-year Computer Science student at Chitkara University, India. I enjoy build
 
 **[DengCast](https://github.com/hardik-thapar/dengcast-dengue-forecasting)** — Time-series forecasting pipeline for dengue outbreaks using machine learning models and leakage-free chronological validation on the DrivenData benchmark.
 
-**[Mercari OCR System](https://github.com/hardik-thapar)** — Asynchronous OCR service built with FastAPI, background workers, Docker, PostgreSQL, and REST APIs, designed for scalable document processing workflows.
-
 ---
 
 ## Research
