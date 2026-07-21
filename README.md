@@ -2,7 +2,7 @@
 
 **Software Engineer · AI/ML · Open to Software Engineering & ML Internships (Summer 2027)**
 
-Third-year Computer Science student at Chitkara University, India. I enjoy building end-to-end software systems—from backend APIs and databases to machine learning applications. My interests lie at the intersection of software engineering and applied AI, with recent work in biomedical AI research and intelligent backend systems.
+Third-year Computer Science student at Chitkara University, India. I enjoy building software from end to end, whether that means designing backend systems, working with data, or applying machine learning to real-world problems. Lately, I’ve been exploring the space where software engineering and AI come together, while also contributing to biomedical AI research.
 
 ---
 
@@ -43,7 +43,7 @@ Third-year Computer Science student at Chitkara University, India. I enjoy build
 
 ## A Few Things
 
-- Winner of multiple national hackathons, including **Swasthathon (Ministry of Health, Government of India)** and finalist at **AMD AI Sprint, IIT Bombay**
+- Winner of multiple national hackathons, including **Swasthathon (PCI India)** and finalist at **AMD AI Sprint, IIT Bombay**
 - AWS AI & ML Scholar, McKinsey Forward Program, and Harvard Aspire Leaders Program participant
 
 ---
