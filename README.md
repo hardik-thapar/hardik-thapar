@@ -8,29 +8,17 @@ Third-year Computer Science student in Chandigarh, India. I build backend system
 
 ## Selected Projects
 
-### [Dispatch](https://github.com/hardik-thapar/dispatch) · Go, PostgreSQL
-A fault-tolerant job queue built on PostgreSQL.
+- **[Dispatch](https://github.com/hardik-thapar/dispatch)** · Go, PostgreSQL
+  A crash-safe job queue on Postgres. I killed workers 60 times across 6,000 jobs: **0 jobs lost, 0 duplicate effects**. `make bench` and `make chaos` reproduce every number.
 
-- Workers claim jobs with `FOR UPDATE SKIP LOCKED`, hold leases kept alive by heartbeats, and are fenced by attempt number. Failed jobs retry with exponential backoff and jitter, then go to a dead-letter queue with replay. Submits are idempotent.
-- A chaos harness `kill -9`s workers under load: across 6,000 jobs and 60 crashes, **0 jobs lost** and **0 duplicate effects** from the idempotent handler (a non-idempotent control produced 120).
-- `SKIP LOCKED` gave 0 double claims vs 102,921 for select-then-update. A partial index cut the claim query from 60.7 ms to 0.006 ms on 1,000,000 rows.
-- About 4,600 jobs/s peak with no-op jobs (16 workers, one laptop); p99 queue wait of 18 ms or less at 500–2,000 jobs/s.
-- `make bench` and `make chaos` reproduce every number. Methods and raw output are in [RESULTS.md](https://github.com/hardik-thapar/dispatch/blob/main/RESULTS.md); bugs found along the way are written up in `BUGS.md`.
+- **[VocalWell](https://github.com/hardik-thapar/vocalwell_backend)** · Python, FastAPI, PostgreSQL
+  Send a voice recording, get back a classification, a risk level and a PDF report. I built the backend; the model is my teammates'.
 
-### [VocalWell](https://github.com/hardik-thapar/vocalwell_backend) · Python, FastAPI, PostgreSQL
-A containerized backend for voice-pathology screening: it takes a voice recording and returns a class (Healthy, Laryngitis or Vocal Polyp), a risk level and a multi-page PDF report.
+- **[DengCast](https://github.com/hardik-thapar/dengcast-dengue-forecasting)** · Python, CatBoost
+  Weekly dengue forecasts on the DengAI benchmark: MAE **11.87** and **4.74** against baselines of about 30, with no leakage across time.
 
-- I wrote the backend: the FastAPI service, Librosa feature extraction, PostgreSQL storage (raw SQL over SQLAlchemy connection pooling), ReportLab reports, the Docker Compose setup and an integration test script.
-- It serves a pre-trained TensorFlow CNN built by my teammates.
-
-### [DengCast](https://github.com/hardik-thapar/dengcast-dengue-forecasting) · Python, CatBoost
-Weekly dengue case forecasting on the DrivenData DengAI benchmark.
-
-- Lag features, rolling statistics, a log-transformed target, and chronological cross-validation to avoid leakage.
-- MAE **11.87** (San Juan) and **4.74** (Iquitos), against baselines of about 30 and 31.
-
-### [EEG Alzheimer's Detection](https://github.com/hardik-thapar/eeg-alzheimer-detection) · Python
-Alzheimer's detection from 19-channel resting-state EEG under strict leave-one-subject-out evaluation. The lab's results show that epoch-level evaluation inflates accuracy by about 9.4 percentage points.
+- **[EEG Alzheimer's Detection](https://github.com/hardik-thapar/eeg-alzheimer-detection)** · Python
+  Alzheimer's detection from EEG, evaluated one held-out subject at a time. Splitting by epoch instead inflates accuracy by about 9.4 points.
 
 ---
 
